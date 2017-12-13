@@ -1,5 +1,7 @@
 require "wz_gem/version"
 
 module WzGem
-  # Your code goes here...
+  def say_hi
+  		puts "hi，I was the first gem for Xiaohu"
+  end
 end

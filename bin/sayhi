@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require "wz_gem.rb"
+
+include WzGem
+
+say_hi
+puts "哈哈哈哈"
